@@ -1,9 +1,9 @@
-# JavaScript
-
 <style>
 	table th { width: 200px; }
-	table tr { text-align: center; }
 </style>
+
+# JavaScript
+
 
 ## 事件
 | Title       	 	|
