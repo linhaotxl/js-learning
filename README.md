@@ -1,7 +1,3 @@
-<style>
-	table th { width: 200px; }
-</style>
-
 # JavaScript
 
 
