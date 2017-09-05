@@ -9,4 +9,5 @@
 ## 面向对象设计
 | Title				|
 | ----------------- |
-| [OOP —— 工厂+构造方法模式]() |
+| [OOP —— 工厂+构造方法模式](https://github.com/Txll/JavaScript/issues/2) |
+| [OOP —— 原型模式](https://github.com/Txll/JavaScript/issues/3) |
