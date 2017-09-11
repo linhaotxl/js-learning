@@ -18,4 +18,9 @@
 | Title |
 | ------|
 | [变量和作用域 —— 作用域](https://github.com/Txll/JavaScript/issues/6) |
-| [变量和作用域 —— 变量对象和活动对象](https://github.com/Txll/JavaScript/issues/7) |
+| [变量和作用域 —— 变量对象和活动对象](https://github.com/Txll/JavaScript/issues/7) |  
+
+## ES6
+| Title |
+| ------ |
+| [ES6 —— let 和 const](https://github.com/Txll/JavaScript/issues/9)
