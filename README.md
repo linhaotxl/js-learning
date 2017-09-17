@@ -24,3 +24,4 @@
 | Title |
 | ------ |
 | [ES6 —— let 和 const](https://github.com/Txll/JavaScript/issues/9)
+| [ES6 —— 解构赋值](https://github.com/Txll/JavaScript/issues/12)
