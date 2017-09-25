@@ -25,4 +25,9 @@
 | ------ |
 | [ES6 —— let 和 const](https://github.com/Txll/JavaScript/issues/9)
 | [ES6 —— 解构赋值](https://github.com/Txll/JavaScript/issues/12)|
-| [ES6 —— class](https://github.com/Txll/JavaScript/issues/13)|
+| [ES6 —— class](https://github.com/Txll/JavaScript/issues/13)|  
+
+## 其他
+| Title |
+| ----- |
+| [属性特性和可枚举](https://github.com/Txll/JavaScript/issues/14) |
