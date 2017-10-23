@@ -31,3 +31,4 @@
 | Title |
 | ----- |
 | [属性特性和可枚举](https://github.com/Txll/JavaScript/issues/14) |
+| [闭包的理解](https://github.com/Txll/js-learning/issues/15)|
